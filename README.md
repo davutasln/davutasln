@@ -65,7 +65,7 @@ I'm a Back-End Developer. I'm passionate about Software Development and Machine 
 -->
 
  ```c#
-While(isOxygenEnough){
+While(isAwake){
     be();
     toCode();
 }
