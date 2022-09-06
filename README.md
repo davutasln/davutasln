@@ -1,28 +1,27 @@
 
-### Hi there 👋
-
-### I am Davut
+### Hi there 👋  I'm [Davut Aslan!](https://github.com/davutasln/)
 
 <!--
 I'm a Back-End Developer. I'm passionate about Software Development and Machine Learning.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🔭 &nbsp; The heavens showed me that I can always do better.
 -->
 
-🔭 The heavens showed me that I can always do better.
+- 🛠 &nbsp; I’m currently working with C#, .Net Core, Entity Framework, PostgreSQL, Mongodb, RabbitMQ, etc.
 
-🌱 I’m currently developing some of my skills 🤣 And I know that is no ending of learning.
 
-👯 I'm looking to collaborate with other tech lovers.
+- 🌱 &nbsp; I’m currently developing some of my skills 🤣 And I know that there is still to much to learn.
 
-<!--
-🥅 2022 Goals: Changing current company instead of better one
--->
+- 👯 &nbsp; I'm looking to collaborate with other tech lovers.
 
-⚡ Fun fact: I like meeting people which is enjoy improving theirselves and from diffrent cultures.
+- ⚡ &nbsp; Fun fact: I like meeting people which is enjoy improving theirselves and from diffrent cultures.
 
-😻 Every conversation means an extra brain movement.
+- 😻 &nbsp; Every conversation means a new perspective to programming.
 
 <!-- 💬 *Social * -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davutasln@outlook.com)
+
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:davutasln@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:davutasln@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davutasln)
 
 
@@ -40,11 +39,13 @@ I'm a Back-End Developer. I'm passionate about Software Development and Machine 
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)]
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]
+[![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)]
+[![NoSQL](https://img.shields.io/badge/nosql-%23316192.svg?style=for-the-badge&logo=nosql&logoColor=white)]
 
 📚 *Frameworks, Platforms and Libraries *
 
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]
+[![.EF](https://img.shields.io/badge/EF-5C2D91?style=for-the-badge&logo=EF&logoColor=white)]
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)]
 
 🎨 *IDEs / Editors *
@@ -71,8 +72,8 @@ While(isAwake){
 }
 ```
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 <!--
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davutasln&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
